@@ -19,5 +19,3 @@ Sistemas de Informação | FIAP
   <a href = "mailto:nicolefaculdade2024@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicole-alves-nogueira-1b11402bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/nicole-an/nicole-an/blob/output/github-contribution-grid-snake.svg)
