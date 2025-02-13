@@ -1,6 +1,6 @@
 ## 🌎 Hello World! Bem vindos ao meu GitHub.
 Sistemas de Informação | FIAP
-- A procura de estágio e aprendizado.
+- A procura de aprendizado.
 
 💻 Meu maior interesse é pelo desenvovimento Back-end utilizando a linguagem JAVA, linguagem da qual eu tenho grande apreço! 
 - Mas também possuo conhecimento no desenvolvimento Front-end com a linguagem JAVASCRIPT, a linguagem de marcação HTML e a linguagem de estilização CSS.
